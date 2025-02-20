@@ -1,0 +1,26 @@
+:root {
+    --color-fondo-principal: #1992d4;
+    --color-fondo-secundario: #e2e8f0;
+    --color-franja-tarjetas: #f0b429;
+    --color-fondo-icono-principal: #facc15;
+    --color-fondo-icono2: #E0F2FE;
+    --color-fondo-icono3: #A3A3A3;
+    --color-fondo-icono4: #FDA4AF;
+    --icono-home: "\F0826";
+    --icono-id: "\F05D2";
+    --icono-message: "\F0361";
+    --icono-clock: "\F1446";
+    --icono-papeles: "\F06B8";
+    --icono-comunidad: "\F0849";
+    --icono-settings: "\F0493";
+    --icono-pregunta: "\F078B";
+    --icono-seguridad: "\F088F";
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+    padding-inline-start: 0px;
+    box-sizing: border-box;
+    font-family: "Roboto", serif;
+}
